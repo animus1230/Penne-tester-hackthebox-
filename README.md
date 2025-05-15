@@ -1,4 +1,4 @@
-Jasne! Oto propozycja profesjonalnej, a jednocześnie naturalnej notatki, którą możesz wkleić na GitHub lub do swojego portfolio. Napisana tak, żeby pokazać Twoją pasję, umiejętności i chęć rozwoju:
+
 
 
 ---
